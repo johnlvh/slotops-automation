@@ -1,0 +1,14 @@
+{
+  "gameId": "slot_dragon_003",
+  "enabled": true,
+  "minBet": 1,
+  "maxBet": 50,
+  "jackpot": { "enabled": true, "value": 250000 },
+  "campaign": {
+    "enabled": false,
+    "start": "2026-04-01T00:00:00",
+    "end": "2026-05-01T00:00:00"
+  },
+  "featureFlags": ["FREE_SPINS"],
+  "rewards": [{ "id": "d1", "amount": 15 }]
+}

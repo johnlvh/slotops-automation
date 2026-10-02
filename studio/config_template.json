@@ -1,0 +1,19 @@
+{
+  "gameId": "string",
+  "enabled": true,
+  "minBet": 0,
+  "maxBet": 0,
+  "jackpot": {
+    "enabled": false,
+    "value": 0
+  },
+  "campaign": {
+    "enabled": false,
+    "start": "ISO8601",
+    "end": "ISO8601"
+  },
+  "featureFlags": [],
+  "rewards": [
+    { "id": "string", "amount": 0 }
+  ]
+}

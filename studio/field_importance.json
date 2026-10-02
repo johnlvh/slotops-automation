@@ -1,0 +1,15 @@
+{
+  "gameId": "HIGH",
+  "enabled": "HIGH",
+  "minBet": "HIGH",
+  "maxBet": "HIGH",
+  "jackpot": "HIGH",
+  "jackpot.enabled": "HIGH",
+  "jackpot.value": "HIGH",
+  "campaign": "MEDIUM",
+  "campaign.enabled": "MEDIUM",
+  "campaign.start": "MEDIUM",
+  "campaign.end": "MEDIUM",
+  "featureFlags": "LOW",
+  "rewards": "MEDIUM"
+}

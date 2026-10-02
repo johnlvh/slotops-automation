@@ -1,0 +1,17 @@
+{
+  "gameId": "slot_cleopatra_001",
+  "enabled": true,
+  "minBet": 5,
+  "maxBet": 500,
+  "jackpot": { "enabled": true, "value": 1500000 },
+  "campaign": {
+    "enabled": true,
+    "start": "2026-03-01T00:00:00",
+    "end": "2027-03-01T00:00:00"
+  },
+  "featureFlags": ["DOUBLE_XP", "SEASON_EVENT"],
+  "rewards": [
+    { "id": "r1", "amount": 10 },
+    { "id": "r1", "amount": 20 }
+  ]
+}
